@@ -19,3 +19,5 @@ This handy script can be called from the following alias's:
  I can now quickly revert the mouse to a behaviour people are used to and restore it to **"natural"** scrolling afterwards.
 
 _Remember to put the alias's in your user's ~/.bashrc file_
+
+![Image description](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic1.businessinsider.com%2Fimage%2F4e28207349e2aeda52240000-480%2Fnatural-scrolling-mac-os-x-lion.jpg)
