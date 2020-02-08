@@ -20,5 +20,5 @@ This handy script can be called from the following alias's:
  
  I can now quickly revert the mouse to a behaviour people are used to and restore it to **"natural"** scrolling afterwards.
 
-_Remember to put the alias's in your user's ~/.bashrc file_
+_Remember to put the alias's in your user's ~/.bashrc file and to chmod +x the file_
 
