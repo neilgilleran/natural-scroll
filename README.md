@@ -1,4 +1,4 @@
-# natural-scroll
+# Natural Scroll
 
 I am using a centos system in work. On other \*nix systems there is an option (Ubuntu for instance) to select natural (or inverse for windows users) scroll in the mouse/device settings.
 
