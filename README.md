@@ -2,7 +2,7 @@
 
 I am using a centos system in work. On other \*nix systems there is an option (Ubuntu for instance) to select natural (or inverse for windows users) scroll in the mouse/device settings.
 
-![Image description](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic1.businessinsider.com%2Fimage%2F4e28207349e2aeda52240000-480%2Fnatural-scrolling-mac-os-x-lion.jpg)
+[](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic1.businessinsider.com%2Fimage%2F4e28207349e2aeda52240000-480%2Fnatural-scrolling-mac-os-x-lion.jpg)
 
 _Natural scroll:_
 Rolling/pushing the mouse **away** from you will scroll the window **DOWN**.  
