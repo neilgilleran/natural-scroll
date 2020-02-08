@@ -13,7 +13,7 @@ Rolling/pushing the mosue **away** from you will scroll the window **DOWN**.
 The issue is whenever someone tries to show me something on my machine they are conditioned to using **"unnatural"** scrolling.
 
 This handy script can be called from the folling alias's:
- \n```alias unnatural_scroll='/home/neil/Documents/./scrolling.sh 1'```
- \n```alias natural_scroll='/home/neil/Documents/./scrolling.sh 0'```
+ \newline ```alias unnatural_scroll='/home/neil/Documents/./scrolling.sh 1'```
+ \newline ```alias natural_scroll='/home/neil/Documents/./scrolling.sh 0'```
  
  I can now quickly revert the mouse to a behaviour people are used to and restore it to **"natural"** scrolling afterwards.
