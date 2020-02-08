@@ -17,3 +17,5 @@ This handy script can be called from the following alias's:
 ```alias natural_scroll='/home/<USERNAME>/Documents/./scrolling.sh 0'```  
  
  I can now quickly revert the mouse to a behaviour people are used to and restore it to **"natural"** scrolling afterwards.
+
+_Remember to put the alias's in your user's ~/.bashrc file_
